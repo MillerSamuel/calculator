@@ -1,0 +1,28 @@
+#desk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+#calculator{
+    width: 130px;
+    background-color: rgb(31, 29, 29);
+    padding: 20px;
+}
+#display{
+    background-color: white;
+}
+.row{
+    margin: 10px;
+}
+button{
+    background-color: orange;
+}
+.operator{
+    background-color: red;
+}
+#equals{
+    width: 100%;
+}
